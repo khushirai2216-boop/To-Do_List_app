@@ -2,6 +2,24 @@
 
 A Python CLI-based To-Do List Application built as **Task 1** for **Saiket Systems Python Development Internship**.
 
+
+## 🎥 Demo
+
+### Main Menu
+![Main Menu](screenshots/1_main_menu.png)
+
+### Adding Tasks
+![Add Task](screenshots/2_add_task.png)
+
+### View All Tasks
+![View Tasks](screenshots/3_view_tasks.png)
+
+### Mark Task Complete
+![Mark Complete](screenshots/4_mark_complete.png)
+
+### Task Statistics
+![Statistics](screenshots/5_statistics.png)
+
 ## Features ✨
 
 ✅ Add new tasks with descriptions
