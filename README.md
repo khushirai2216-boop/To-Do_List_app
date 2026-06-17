@@ -5,6 +5,12 @@ A Python CLI-based To-Do List Application built as **Task 1** for **Saiket Syste
 
 ## 🎥 Demo
 
+![To-Do List Demo](screenshots/demo.gif)
+
+---
+
+## 📸 Screenshots
+
 ### Main Menu
 ![Main Menu](screenshots/1_main_menu.png)
 
